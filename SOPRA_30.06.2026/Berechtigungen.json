@@ -1,9 +1,9 @@
 {
   "standard_level": 3,
   "benutzer_level": {
-    "Sachbearbeiter": 1,
-    "Fachkraft": 2,
-    "Teamleiter": 3,
+    "fachb1": 1,
+    "fachb2": 2,
+    "fachb3": 3,
     "s26s521": 3
   },
   "aktion_min_level": {
@@ -15,8 +15,8 @@
     "cancel_order": 3
   },
   "level_namen": {
-    "1": "Sachbearbeiter",
-    "2": "Fachkraft",
-    "3": "Teamleiter"
+    "1": "fachb1",
+    "2": "fachb2",
+    "3": "fachb3"
   }
 }
